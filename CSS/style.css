@@ -1,0 +1,72 @@
+.content{
+    background-color : black;
+    width : 540px;
+    height: 70px;
+    margin :30px auto;
+    border-radius: 50px;
+
+}
+
+h1{
+    background-color : black;
+    width : 400px;
+    height: 40px;
+    text-align : center;
+    font-family : tahoma;
+    font-size : 24px;
+    color : #ddd;
+    margin : 80px auto;
+    position : relative;
+    top: 20px
+}
+
+section{
+    background-color : red;
+    display : block;
+    height: 138px;
+    border-radius: 500px;
+
+}
+h3{
+    height: 10px;
+    text-align : center;
+    font-family : tahoma;
+    font-size : 20px;
+    color : #FFF;
+    margin : 55px auto;
+    position : relative;
+    top: 20px
+    
+}
+input{
+    margin: 10px 10px 50px 160px ;
+    width: 100px;
+    height :30px;
+    border-radius : 60px 20px 60px 20px;
+    color:#EC9024;
+    font-size: 20px ;
+    text-align : center;
+}
+button{
+    width: 100px;
+    height :35px;
+}
+.Outputing{
+
+    background-color : yellow;
+    display : block;
+    border-radius: 50px;
+    height: 80px;
+    margin:  30px 10px 30px 10px;
+    text-align: center;
+
+}
+
+#Output{
+    margin:  5px;
+    text-align: center;
+    color : #111;
+    font-size: 30px;
+    position: relative;
+    top: 20px;
+}
